@@ -10,6 +10,8 @@ R3F-RainbowGLSL is perfect for both 3D web development veterans and beginners ea
 - Helps differentiate variables, functions, and datatypes in GLSL
 - Perfect for 3D web development
 
+![example](./example.png)
+
 ## Usage
 
 1. Install the extension from Visual Studio Marketplace.
