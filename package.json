@@ -7,8 +7,8 @@
     "type": "git",
     "url": "https://github.com/kris-sorensen/r3f-rainbowglsl.git"
   },
-  "description": "Add a burst of color to your React Three Fiber applications with R3F-RainbowGLSL. Our VS Code extension is designed to elevate your coding experience by providing vibrant syntax highlighting for GLSL code embedded within TypeScript files. Distinguish variables, functions, and datatypes with ease and add a touch of visual joy to your shader coding process. R3F-RainbowGLSL is perfect for both 3D web development veterans and beginners eager to dive into the world of shaders. Let R3F-RainbowGLSL color your coding world!",
-  "version": "0.0.3",
+  "description": "GLSL syntax highlighting for R3F code!",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.78.0"
   },
