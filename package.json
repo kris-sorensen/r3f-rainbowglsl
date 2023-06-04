@@ -8,7 +8,7 @@
     "url": "https://github.com/kris-sorensen/r3f-rainbowglsl.git"
   },
   "description": "GLSL syntax highlighting for R3F code!",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.78.0"
   },
